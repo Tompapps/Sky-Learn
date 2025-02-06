@@ -1,0 +1,7 @@
+<div class="hero-banner" style="background-image:url('https://images.pexels.com/photos/3740741/pexels-photo-3740741.jpeg'); background-position:center; background-size:cover; color:white; height:400px; position:relative; text-align:center">
+<div style="background:rgba(0, 0, 0, 0.4); bottom:0; left:0; position:absolute; right:0; top:0">&nbsp;</div>
+<div style="left:50%; position:absolute; top:50%; transform:translate(-50%, -50%)">
+<h1 style="color:#ffffff; font-size:3em; margin-bottom:20px">Welcome to Sky Learn</h1>
+<p style="color:#ffffff; font-size:1.5em; margin-bottom:30px">Explore courses and enhance your skills with us!</p>
+<a href="https://skysandbox.edcastpreview.com/discover" style="font-size:1.2em; padding:10px 20px; background-color:#4CAF50; color:white; text-decoration:none; border-radius:5px;">Get Started</a></div>
+</div>
